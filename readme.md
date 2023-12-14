@@ -27,7 +27,7 @@ This project  the idea of controlling the fan based on the variation of temperat
 
  Keep in mind that the specific values used in the code (temperature thresholds, hysteresis range, delays, etc.) should be tuned based on the characteristics of your system and the requirements of your application.
 
-   ![image](/embedded_project_for_learning/nucleo-f446re/Projects/prj06_fan_termo.f/hysteresis-2.jpg)
+   ![image](doc/hysteresis-2.jpg)
 
  
 
